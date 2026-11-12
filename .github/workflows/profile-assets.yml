@@ -1,0 +1,77 @@
+# Regenerates the images used by README.md and publishes them to the `output`
+# branch (force-pushed, no history), so the main branch never fills up with
+# daily bot commits. The README loads them from:
+#   https://raw.githubusercontent.com/<owner>/<owner>/output/<file>.svg
+#
+# The public github-readme-stats / trophy / activity-graph Vercel instances are
+# paused, so the stats card is rendered here with the maintained successor action.
+
+name: Profile assets
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # every day at 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-assets.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+
+      # ---------- GitHub stats card (dark + light) ----------
+      # JSON options (username defaults to the repository owner).
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            {"show_icons": true, "rank_icon": "github", "card_width": 495,
+             "custom_title": "GitHub Stats", "bg_color": "0d1117", "border_color": "30363d",
+             "title_color": "7aa2f7", "icon_color": "bb9af7", "text_color": "c9d1d9",
+             "ring_color": "bb9af7"}
+          path: dist/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            {"show_icons": true, "rank_icon": "github", "card_width": 495,
+             "custom_title": "GitHub Stats", "bg_color": "ffffff", "border_color": "d0d7de",
+             "title_color": "2e7de9", "icon_color": "9854f1", "text_color": "1f2328",
+             "ring_color": "9854f1"}
+          path: dist/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ---------- contribution snake (dark + light) ----------
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#8250df
+            dist/snake-dark.svg?palette=github-dark&color_snake=#bb9af7
+
+      # ---------- publish dist/ to the output branch ----------
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update profile assets"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
