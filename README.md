@@ -3,15 +3,16 @@
      white on dark, deep indigo on light. Commas in srcset URLs are %2C-encoded. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E7DE9%2C100:9854F1&height=230&section=header&text=Hi%2C%20I%27m%20Yongheng&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Quant&descSize=20&descAlignY=56" />
-    <img width="100%" alt="Hi, I'm Yongheng" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7DE9%2C100:9854F1&height=230&section=header&text=Hi%2C%20I%27m%20Yongheng&fontSize=56&fontColor=1E1B4B&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20Quant&descSize=20&descAlignY=56" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E7DE9%2C100:9854F1&height=230&section=header&text=Hi%2C%20I%27m%20Yongheng&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%C2%B7%20ML%20%C2%B7%20Quant%20%20%7C%20%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%C2%B7%20%E9%87%8F%E5%8C%96&descSize=20&descAlignY=56" />
+    <img width="100%" alt="Hi, I'm Yongheng · Data Science · ML · Quant | 数据科学 · 机器学习 · 量化" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7DE9%2C100:9854F1&height=230&section=header&text=Hi%2C%20I%27m%20Yongheng&fontSize=56&fontColor=1E1B4B&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%C2%B7%20ML%20%C2%B7%20Quant%20%20%7C%20%20%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%20%C2%B7%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%C2%B7%20%E9%87%8F%E5%8C%96&descSize=20&descAlignY=56" />
   </picture>
 </p>
 
+<!-- Each group types an English line, then its Chinese counterpart below it. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=BB9AF7&center=true&vCenter=true&width=620&lines=Student+%40+Technical+University+of+Munich;Reinforcement+learning+for+trading;Customer+preferences+%E2%86%92+product+insights;Data+apps+with+Python+%26+Streamlit;Exploring+AI+coding+agents" />
-    <img alt="Student @ TUM · Reinforcement learning for trading · Customer preferences → product insights · Data apps with Python & Streamlit · Exploring AI coding agents" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=8250DF&center=true&vCenter=true&width=620&lines=Student+%40+Technical+University+of+Munich;Reinforcement+learning+for+trading;Customer+preferences+%E2%86%92+product+insights;Data+apps+with+Python+%26+Streamlit;Exploring+AI+coding+agents" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=1200&color=BB9AF7&center=true&vCenter=true&multiline=true&groups=2%2C2%2C2%2C2&width=620&height=80&lines=Student+%40+Technical+University+of+Munich;%E6%85%95%E5%B0%BC%E9%BB%91%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9C%A8%E8%AF%BB;Reinforcement+learning+for+trading;%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%81%9A%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93;Customer+preferences+%E2%86%92+product+insights;%E7%94%A8%E8%81%94%E5%90%88%E5%88%86%E6%9E%90%E8%AF%BB%E6%87%82%E5%AE%A2%E6%88%B7%E5%81%8F%E5%A5%BD;Exploring+AI+coding+agents;%E6%8E%A2%E7%B4%A2+AI+%E7%BC%96%E7%A8%8B%E6%99%BA%E8%83%BD%E4%BD%93" />
+    <img alt="Student @ TUM · 慕尼黑工业大学在读 · Reinforcement learning for trading · 用强化学习做量化交易 · Customer preferences → product insights · 用联合分析读懂客户偏好 · Exploring AI coding agents · 探索 AI 编程智能体" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=1200&color=8250DF&center=true&vCenter=true&multiline=true&groups=2%2C2%2C2%2C2&width=620&height=80&lines=Student+%40+Technical+University+of+Munich;%E6%85%95%E5%B0%BC%E9%BB%91%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9C%A8%E8%AF%BB;Reinforcement+learning+for+trading;%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%81%9A%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93;Customer+preferences+%E2%86%92+product+insights;%E7%94%A8%E8%81%94%E5%90%88%E5%88%86%E6%9E%90%E8%AF%BB%E6%87%82%E5%AE%A2%E6%88%B7%E5%81%8F%E5%A5%BD;Exploring+AI+coding+agents;%E6%8E%A2%E7%B4%A2+AI+%E7%BC%96%E7%A8%8B%E6%99%BA%E8%83%BD%E4%BD%93" />
   </picture>
 </p>
 
@@ -19,16 +20,22 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=yonhenn&label=Profile%20views&color=9854f1&style=flat-square" />
 </p>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me · 关于我
 
-- 🎓 Student at the **Technical University of Munich (TUM)**
-- 📈 Building **reinforcement-learning trading agents**: SAC, PPO, TD3 and friends on the NASDAQ-100
-- 🧭 Turning **customer preferences** into product insights with **conjoint analysis**
-- 🎵 Curious about **AI music generation** and audio feature extraction
-- 🤖 Exploring **AI coding agents** and developer tooling
-- 💬 Ask me about **Python, Streamlit data apps, and RL for markets**
+- 🎓 Student at the **Technical University of Munich (TUM)**<br>
+  慕尼黑工业大学（TUM）在读
+- 📈 Building **reinforcement-learning trading agents**: SAC, PPO, TD3 and friends on the NASDAQ-100<br>
+  用 SAC、PPO、TD3 等**强化学习**算法，在纳斯达克 100 上训练交易智能体
+- 🧭 Turning **customer preferences** into product insights with **conjoint analysis**<br>
+  用**联合分析**把客户偏好转化为产品洞察
+- 🎵 Curious about **AI music generation** and audio feature extraction<br>
+  对 **AI 音乐生成**和音频特征提取很感兴趣
+- 🤖 Exploring **AI coding agents** and developer tooling<br>
+  正在探索 **AI 编程智能体**和开发者工具
+- 💬 Ask me about **Python, Streamlit data apps, and RL for markets**<br>
+  可以和我聊 **Python、Streamlit 数据应用，以及强化学习在金融市场中的应用**
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack · 技术栈
 
 <!-- Commas are %2C-encoded (srcset treats a bare comma as a candidate separator), and the
      <picture> is not wrapped in <a>: GitHub adds its own link around every <img>. -->
@@ -48,7 +55,7 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects · 精选项目
 
 <table>
   <tr>
@@ -56,7 +63,9 @@
 
 ### 📈 [RL-Stock](https://github.com/yonhenn/RL-Stock)
 
-Reinforcement-learning trading agents for the **NASDAQ-100**: SAC, PPO, TD3, A2C and DDPG on a continuous, risk-managed position environment, plus a bilingual Streamlit dashboard comparing returns, Sharpe / Calmar, drawdowns and buy / sell signals.
+Reinforcement-learning trading agents for the **NASDAQ-100** (SAC, PPO, TD3, A2C, DDPG) on a risk-managed position environment, with a bilingual Streamlit dashboard for returns, Sharpe / Calmar, drawdowns and trade signals.
+
+面向**纳斯达克 100** 的强化学习交易智能体（SAC、PPO、TD3、A2C、DDPG），基于带风险控制的连续仓位环境，并配有中英双语 Streamlit 看板，对比收益、夏普 / 卡玛比率、回撤和买卖点。
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -71,6 +80,8 @@ Reinforcement-learning trading agents for the **NASDAQ-100**: SAC, PPO, TD3, A2C
 
 Product-portfolio distance analysis that measures how similar products are, then re-weights that similarity with **conjoint analysis** so it reflects what customers actually value. Survey app, part-worth / ACBC estimation and side-by-side dashboards. *TUM project study.*
 
+产品组合距离分析工具：先计算产品之间的相似度，再用**联合分析**按客户真正看重的属性重新加权。包含问卷应用、成分效用 / ACBC 估计和对比看板。*TUM Project Study 课程项目。*
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -81,7 +92,7 @@ Product-portfolio distance analysis that measures how similar products are, then
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats · 数据统计
 
 <p align="center">
   <picture>
