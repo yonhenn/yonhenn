@@ -11,8 +11,8 @@
 <!-- Each group types an English line, then its Chinese counterpart below it. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=1200&color=BB9AF7&center=true&vCenter=true&multiline=true&groups=2%2C2%2C2%2C2&width=620&height=80&lines=Student+%40+Technical+University+of+Munich;%E6%85%95%E5%B0%BC%E9%BB%91%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9C%A8%E8%AF%BB;Reinforcement+learning+for+trading;%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%81%9A%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93;Customer+preferences+%E2%86%92+product+insights;%E7%94%A8%E8%81%94%E5%90%88%E5%88%86%E6%9E%90%E8%AF%BB%E6%87%82%E5%AE%A2%E6%88%B7%E5%81%8F%E5%A5%BD;Exploring+AI+coding+agents;%E6%8E%A2%E7%B4%A2+AI+%E7%BC%96%E7%A8%8B%E6%99%BA%E8%83%BD%E4%BD%93" />
-    <img alt="Student @ TUM · 慕尼黑工业大学在读 · Reinforcement learning for trading · 用强化学习做量化交易 · Customer preferences → product insights · 用联合分析读懂客户偏好 · Exploring AI coding agents · 探索 AI 编程智能体" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=1200&color=8250DF&center=true&vCenter=true&multiline=true&groups=2%2C2%2C2%2C2&width=620&height=80&lines=Student+%40+Technical+University+of+Munich;%E6%85%95%E5%B0%BC%E9%BB%91%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9C%A8%E8%AF%BB;Reinforcement+learning+for+trading;%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%81%9A%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93;Customer+preferences+%E2%86%92+product+insights;%E7%94%A8%E8%81%94%E5%90%88%E5%88%86%E6%9E%90%E8%AF%BB%E6%87%82%E5%AE%A2%E6%88%B7%E5%81%8F%E5%A5%BD;Exploring+AI+coding+agents;%E6%8E%A2%E7%B4%A2+AI+%E7%BC%96%E7%A8%8B%E6%99%BA%E8%83%BD%E4%BD%93" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=1200&color=BB9AF7&center=true&vCenter=true&multiline=true&groups=2%2C2%2C2%2C2&width=620&height=80&lines=Data+apps+with+Python+%26+Streamlit;%E7%94%A8+Python+%E5%92%8C+Streamlit+%E5%81%9A%E6%95%B0%E6%8D%AE%E5%BA%94%E7%94%A8;Reinforcement+learning+for+trading;%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%81%9A%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93;Customer+preferences+%E2%86%92+product+insights;%E7%94%A8%E8%81%94%E5%90%88%E5%88%86%E6%9E%90%E8%AF%BB%E6%87%82%E5%AE%A2%E6%88%B7%E5%81%8F%E5%A5%BD;Exploring+AI+coding+agents;%E6%8E%A2%E7%B4%A2+AI+%E7%BC%96%E7%A8%8B%E6%99%BA%E8%83%BD%E4%BD%93" />
+    <img alt="Data apps with Python & Streamlit · 用 Python 和 Streamlit 做数据应用 · Reinforcement learning for trading · 用强化学习做量化交易 · Customer preferences → product insights · 用联合分析读懂客户偏好 · Exploring AI coding agents · 探索 AI 编程智能体" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=1200&color=8250DF&center=true&vCenter=true&multiline=true&groups=2%2C2%2C2%2C2&width=620&height=80&lines=Data+apps+with+Python+%26+Streamlit;%E7%94%A8+Python+%E5%92%8C+Streamlit+%E5%81%9A%E6%95%B0%E6%8D%AE%E5%BA%94%E7%94%A8;Reinforcement+learning+for+trading;%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%81%9A%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93;Customer+preferences+%E2%86%92+product+insights;%E7%94%A8%E8%81%94%E5%90%88%E5%88%86%E6%9E%90%E8%AF%BB%E6%87%82%E5%AE%A2%E6%88%B7%E5%81%8F%E5%A5%BD;Exploring+AI+coding+agents;%E6%8E%A2%E7%B4%A2+AI+%E7%BC%96%E7%A8%8B%E6%99%BA%E8%83%BD%E4%BD%93" />
   </picture>
 </p>
 
@@ -22,8 +22,6 @@
 
 ## 🧑‍💻 About Me · 关于我
 
-- 🎓 Student at the **Technical University of Munich (TUM)**<br>
-  慕尼黑工业大学（TUM）在读
 - 📈 Building **reinforcement-learning trading agents**: SAC, PPO, TD3 and friends on the NASDAQ-100<br>
   用 SAC、PPO、TD3 等**强化学习**算法，在纳斯达克 100 上训练交易智能体
 - 🧭 Turning **customer preferences** into product insights with **conjoint analysis**<br>
@@ -78,9 +76,9 @@ Reinforcement-learning trading agents for the **NASDAQ-100** (SAC, PPO, TD3, A2C
 
 ### 🧭 [Conjoint-Analysis](https://github.com/yonhenn/Conjoint-Analysis)
 
-Product-portfolio distance analysis that measures how similar products are, then re-weights that similarity with **conjoint analysis** so it reflects what customers actually value. Survey app, part-worth / ACBC estimation and side-by-side dashboards. *TUM project study.*
+Product-portfolio distance analysis that measures how similar products are, then re-weights that similarity with **conjoint analysis** so it reflects what customers actually value. Survey app, part-worth / ACBC estimation and side-by-side dashboards. *Team project.*
 
-产品组合距离分析工具：先计算产品之间的相似度，再用**联合分析**按客户真正看重的属性重新加权。包含问卷应用、成分效用 / ACBC 估计和对比看板。*TUM Project Study 课程项目。*
+产品组合距离分析工具：先计算产品之间的相似度，再用**联合分析**按客户真正看重的属性重新加权。包含问卷应用、成分效用 / ACBC 估计和对比看板。*团队项目。*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
